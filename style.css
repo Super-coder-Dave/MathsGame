@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(150, 199, 248);
+    text-align: center;
+    font-size: 25px;
+}
+#divP1{
+    background-color: whitesmoke;
+    width: 30%;
+    float: none;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 20px;
+}
+#divP2{
+    background-color: whitesmoke;
+    width: 30%;
+    float: none;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 20px;
+}
+#buttonLogin{
+    background-color: rgb(180, 255, 104);
+    font-size: 25px;
+    width: 20%;
+    border-radius: 15px;
+}
